@@ -1,4 +1,4 @@
-# 🛡️ CyberGuard CLI (In Progress)
+# 🛡️ CyberGuard CLI
 > A **Python terminal incident-response simulator** for practicing log forensics, process analysis, and containment workflows — built from scratch as a solo learning project.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
